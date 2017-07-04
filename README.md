@@ -1,4 +1,4 @@
-# Youtube How Old
+# ![](./img/icon-64.png) Youtube How Old
 
 A small extension that adds how old videos are in the watch page.
 
