@@ -3,7 +3,7 @@
 
   "name": "Youtube How Old",
   "description": "Displays how old is an video on the watch screen.",
-  "version": "0.2",
+  "version": "1.0",
 
   "icons": {
     "16": "img/icon-16.png",
@@ -13,7 +13,7 @@
     "128": "img/icon-128.png"
   },
 
-	"content_scripts": [
+  "content_scripts": [
     {
       "matches": [
         "*://*.youtube.com/*"
