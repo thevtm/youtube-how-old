@@ -18,3 +18,6 @@ indent_size = 2
 
 [*.yml]
 indent_style = spaces
+
+[Makefile]
+indent_style = tab
